@@ -1,2 +1,2 @@
 # adprojects
-Code of projects 
+Code of personal projects and for training purposes.
