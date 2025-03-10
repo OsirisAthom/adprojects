@@ -1,6 +1,6 @@
 """
 Programa para convertir archivos de *.txt a *.csv de los datos tomados
-Modificado 18/09/2024 : Adler
+Modificado 18/09/2024 
 Forma guardada de los archivos F1-0_1-2minutos.txt
 NúmeroSensor-concentraciónquímico-tiempo.txt
 """
