@@ -3,7 +3,6 @@ Programa para realizar Regresión de componentes principales
 para predecir el volumen medido por un sensor de fibra óptica
 con rejilla de periodo largo
 Actualizado 16/08/2024
-Adler
 """
 # Aquí estamos midiendo las áreas con los tiempos
 """
