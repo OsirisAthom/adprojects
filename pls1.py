@@ -1,7 +1,7 @@
 """
 Programa para realizar Partial Least Square Regression
 Utilizado para analizar todos las longitudes de onda a minuto 10
-21/08/2024 : Adler
+21/08/2024 
 """
 
 # Aquí estamos midiendo solamente las mediciones de t=10min
