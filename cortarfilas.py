@@ -1,7 +1,7 @@
 """
 Programa para cortar las filas deseadas de un documento *.csv
 Específicamente hecho para los archivos del trabajo de investigación.
-Movido 05/09/24 : Adler
+Movido 05/09/24 
 """
 # Importaciones pertinentes
 import pandas as pd
