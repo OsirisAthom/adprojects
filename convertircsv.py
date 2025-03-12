@@ -1,7 +1,7 @@
 """
-Programa para convertir archivos de *.txt a *.csv de los datos tomados
+Programa para convertir archivos de *.txt a *.csv dados datos recopilados en dos columnas.
 Modificado 18/09/2024 
-Forma guardada de los archivos F1-0_1-2minutos.txt
+Forma guardada de los archivos: F1-0_1-2minutos.txt
 NúmeroSensor-concentraciónquímico-tiempo.txt
 """
 # realizar importaciones necesarias
